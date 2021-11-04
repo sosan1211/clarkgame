@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4FC68FB0-E56D-AE77-C905-A15ED6747965}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/wall.cs">
+    <Files>
+      <File FileName="Assets/Script/player.cs" Line="88" Column="45" />
+      <File FileName="Assets/Script/wall.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="clarkgame 9.10" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="wall.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="446af54b-369e-406d-955b-fa41105d937a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

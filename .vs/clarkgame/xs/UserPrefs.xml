@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{DF974500-33BF-3AE7-433B-D9737360DF2F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/player.cs">
+    <Files>
+      <File FileName="Assets/Script/phone.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/player.cs" Line="273" Column="28" />
+      <File FileName="Assets/Script/item.cs" />
+      <File FileName="Assets/Script/PlayerSpawner.cs" />
+      <File FileName="Assets/Script/human.cs" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="clarkgame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="phone.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Characters" expanded="True">
+                  <Node name="FirstPersonCharacter" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="83f4ce67-247c-4565-a132-edbe917e91c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="64920ded-99ab-41da-bcb2-d9d1656e12d0" />
+</Properties>

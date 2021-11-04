@@ -1,0 +1,57 @@
+＃ ===============＃
+＃ユニティ生成＃
+＃ ===============＃
+/ [ Ll ] ibrary /
+/ [ Tt ] emp /
+/ [ Oo ] bj /
+/ [ Bb ] uild /
+/ [ Bb ] uilds /
+UnityGenerated /
+/アセット/ AssetStoreTools *
+* .pidb.meta
+
+
+＃ =====================================＃
+＃のVisual Studio / MonoDevelopの生成＃
+＃ =====================================＃
+.vs /
+.consulo /
+ExportedObj /
+* .svd
+* .csproj
+* .pidb
+* .suo
+* .sln
+* .user
+* .unityproj
+* .userprefs
+* .booproj
+* .tmp
+* .pdb
+
+＃ ============＃
+＃生成されたOS＃
+＃ ============＃
+.DS_Store
+.DS_Store ？
+._ *
+.Spotlight-V100
+。ゴミ箱
+アイコン？
+ehthumbs.db
+Thumbs.db
+
+＃ ============＃
+＃ビルド＃
+＃ ============＃
+* .html
+* .unity3d
+* .apk
+* .unitypackage
+
+＃ ============＃
+＃他の人のために＃
+＃ ============＃
+* .log  ＃ログファイル、一部のプラグイン用
+* .pyc  ＃一部のプラグインのPythonバイトコードキャッシュ。
+sysinfo.txt  ＃クラッシュレポートでUnity3Dが生成したファイル
